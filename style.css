@@ -1,0 +1,61 @@
+.playlist {
+  display: inline-block;
+  width: 800px;
+  height: 150px;
+  background-color: burlywood;
+}
+img {
+  width: 150px;
+  height: 150px;
+  margin-left: 20px;
+}
+.buttoms {
+  margin-top: 70px;
+}
+
+.yenken {
+  background-color: rgb(187, 218, 49);
+  width: 800px;
+  height: 50px;
+  text-align: left;
+}
+.supper {
+  background-color: rgb(187, 218, 49);
+  width: 800px;
+  height: 50px;
+  text-align: left;
+}
+.faker {
+  width: 800px;
+  height: 50px;
+  text-align: left;
+}
+.suppermaro {
+  width: 800px;
+  height: 50px;
+  text-align: left;
+}
+.play {
+  margin-bottom: 100%;
+  display: inline-block;
+  width: 600px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.playbtn {
+  width: 50px;
+  height: 20px;
+}
+.Puasebtn {
+  width: 50px;
+  height: 20px;
+}
+.stopbtn {
+  width: 50px;
+  height: 20px;
+}
+.mutebtn {
+  width: 50px;
+  height: 20px;
+}
